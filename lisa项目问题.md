@@ -19,3 +19,4 @@
 
 ##### 数据库的表怎么设计的？
 
+User表：Id、Name、PwdDate、Type、Intro、logoUrl
